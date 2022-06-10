@@ -1,0 +1,85 @@
+[
+    {
+        "year": 2020,
+        "title": "The Vanishing Half",
+        "author": "Brit Bennett",
+        "no_pages": 352,
+        "genre": "mistery"
+    },
+    {
+        "year": 2020,
+        "title": "Deacon King Kong",
+        "author": "James McBride",
+        "no_pages": 258,
+        "genre": "fiction"
+    },
+    {
+        "year": 2020,
+        "title": "Hamnet",
+        "author": "Maggie O'Farrell",
+        "no_pages": 384,
+        "genre": "fiction"
+    },
+    {
+        "year": 2020,
+        "title": "The Glass Hotel",
+        "author": "Emily St. John Mandel",
+        "no_pages": 320,
+        "genre": "psychological"
+    },
+    {
+        "year": 2021,
+        "title": "While Justice Sleeps",
+        "author": "Stacey Abrams",
+        "no_pages": 200,
+        "genre": "thriller"
+    },
+    {
+        "year": 2021,
+        "title": "The Four Winds",
+        "author": "Kristin Hannah",
+        "no_pages": 251,
+        "genre": "romance"
+    },
+    {
+        "year": 2021,
+        "title": "Great Circle",
+        "author": "Maggie Shipstead",
+        "no_pages": 304,
+        "genre": "fiction"
+    },
+    {
+        "year": 2021,
+        "title": "The Prophets",
+        "author": "Robert Jones Jr.",
+        "no_pages": 198,
+        "genre": "romance"
+    }
+]
+
+
+{
+    "books": [
+        {
+            "year": 1960,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "no_pages": 300,
+            "genre": "thriller"
+        },
+        {
+            "year": 1949,
+            "title": "1984",
+            "author": "George Orwell",
+            "no_pages": 100,
+            "genre": "fiction"
+        },
+        {
+            "year": 1997,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J.K. Rowling",
+            "no_pages": 309,
+            "genre": "fantasy"
+        }
+    ]
+}
